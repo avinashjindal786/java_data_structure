@@ -95,6 +95,7 @@ class single_linklist {
         sss.insertafter(89,1); 
         sss.delete();
         sss.printlist();
-          
+        sss.addnode(29);
+        sss.printlist();  
     }
 }
